@@ -1,0 +1,84 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\usepackage[margin=0.5in]{geometry}
+\usepackage[default]{sourcesanspro}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+\begin{document}
+
+% HEADING
+\begin{center}
+    {\Large \textbf{Rigved Koushik Doddi}}\\
+    \vspace{2pt}
+    \small 336-995-4908 | \href{mailto:rigveddoddi2002@gmail.com}{rigveddoddi2002@gmail.com} | \href{https://www.linkedin.com/in/rkdoddi/}{linkedin.com/in/rkdoddi} \\
+\end{center}
+
+% EDUCATIONkkk
+\section*{Education}
+\noindent \textbf{Bachelor of Computer Engineering}, North Carolina State University \hfill Graduated May 2024
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item Intro Embedded Systems, Microelectronics, Design Principles for Complex Digital Systems, Compiler Optimization and Scheduling, Application Programming in Java
+\end{itemize}
+
+\noindent \textbf{Bachelor of Computer Engineering}, Virginia Tech University \hfill Transferred May 2021
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item Linear Algebra, Foundations of Engineering, Foundations of Physics, Multivariable Calculus, Foundations of Chemistry
+\end{itemize}
+
+% SKILLS
+\section*{Skills}
+\noindent \textbf{Languages:} Java, Python, C, C++, Verilog, MATLAB, Simulink, JavaScript, HTML, CSS, SQL, Vue.Js, React Native \\
+\noindent \textbf{Technologies:} Docker, Git, SVN, Linux, Windows, Vivado, Vitis, OpenCV, NumPy, Pandas, Keras, TensorFlow, sklearn, Matplotlib, SVN, Polariton, CAN, Vector
+
+% WORK EXPERIENCE
+\section*{Work Experience}
+\noindent \textbf{Controls Intern} | Hyster-Yale \hfill June 2023 – May 2024
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item Hyster-Yale has been a materials handling company for over 90 years with a global network stretching across 5 continents. Hyster-Yale is a leading full-line lift truck manufacturer offering a wide range of customizations to meet customer needs.
+    \item Using MATLAB Scripts and Simulink to perform SIL/MIL (Software-In-the-Loop/Model-In-the-Loop) testing to test truck software. Reducing man hours during our testing phase and reducing the chances of client issues and expensive recalls.
+    \item Designed and created test harness to test truck controllers. Tested hardware components to make sure they were within specification. Gained Introduction to CAN and Vector Software.
+    \item Integrated unit tests automatically through the use of Jenkins, improving software reliability and deployment efficiency.
+\end{itemize}
+\noindent \textbf{Full Stack Developer Intern}| PlayMetrics \hfill May 2022 – Aug 2022
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item PlayMetrics is a sports analytics platform that provides data-driven insights for sports teams and organizations. It is one of the best products for youth soccer with over 500 clubs and thousands of players.
+    \item Designed and developed a user interface using Vue.js, JavaScript, HTML, SQL to allow the company to monitor their success and user information efficiently.
+    \item Enhanced data accessibility and organization by creating visually informative graphs, charts, and images, facilitating streamlined client onboarding processes.
+\end{itemize}
+
+\noindent \textbf{Research Assistant} | North Carolina A\&T State University \hfill June 2021 – July 2021
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item A\&T`s Research on Autonomous Vehicles gained 300,000 dollars of funding from NCDOT. The project consisted of a car and a quadcopter equipped with multiple images, light, sound, and thermal sensors able to take data in any environment.
+    \item Worked on a prototype of the car creating a small-scale model then programming and testing the functionality of the sensors to be rendered on the actual model.
+    \item Designed and worked on a 3D exoskeleton and frame for the car using SolidWorks and 3D printers.
+\end{itemize}
+
+% PROJECTS
+\section*{Projects}
+\textbf{Real-time Object Detection and Tracking (Sponsored by Northrop Grumman): } Collaborated with a team to design and create a smart camera to identify, track, and follow someone wearing a facemask using AMD Xilinx’s KV260 development board. Developed and implemented object detection using a pre-compiled facemask detection model from Xilinx’s Model Zoo. Utilized OpenCV’s legacy MOSSE algorithm for object tracking, with bounding box data processed through a proportional-only controller for optimized camera tracking. Gained hands-on experience with FPGA (Vivado/Vitis), AI/ML (OpenCV), embedded systems (PID Control).\\
+\textbf{Autonomous Car:} Created a model car that could autonomously follow a black line with the use of a PID controller to automatically change direction and speed based on percent error. This car could also be manually controlled using an IOT module and any device that can connect to Wi-Fi. The car was designed using C, an MSP430, a FET board, and display board that we designed based on PCB schematics. \\
+\textbf{Apple Stock Prediction:} Worked with a team to develop a neural network model to automate stock technical analysis, reducing the time and expertise required for accurate stock picking. Utilizing historical data from Apple stock, the model predicts future stock prices by focusing on the closing price. Implemented a baseline Recurrent Neural Network (RNN) with a Simple RNN layer and later enhanced with Long Short-Term Memory (LSTM) for improved accuracy. Achieving a (RMSE) of 1.962, significantly improving the baseline.\\
+\textbf{Simple CPU:} Using Verilog created a 16-bit CPU able to perform simple arithmetic calculations such as add, subtract, multiply, divide, modulo, and exponents. Programmed an ALU inputting all the necessary opcode. Then programmed and designed a control unit, data path, and register file. \\
+
+\end{document}
