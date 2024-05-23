@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715736727.94894 "c:/Users/rigve/Documents/Resume/main.tex" "main.pdf" "main" 1715736729.48426 0
+["pdflatex"] 1716436642.29735 "c:/Users/rigve/Documents/Resume/main.tex" "main.pdf" "main" 1716436644.08261 0
   "C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715206747 160629 a8a3f3d322d99e8f93990ff5a04483a5 ""
   "C:/Users/rigve/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1715192550 24240353 cd4efec73cd3dbf15c9d2a0c33bdbcc8 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587920543 3267 177411e539fcc6ace86309ff03b22da6 ""
@@ -89,10 +89,10 @@
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/rigve/Documents/Resume/main.tex" 1715736725 6457 b2353467b9251c5da071c513db8841c9 ""
-  "main.aux" 1715736729 242 a0f08d3dd3a4d62ca271246e50f1fe59 "pdflatex"
-  "main.out" 1715736729 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1715736725 6457 b2353467b9251c5da071c513db8841c9 ""
+  "c:/Users/rigve/Documents/Resume/main.tex" 1716436641 6112 78a6cdf3b854ffd7c6e3e0378841fba7 ""
+  "main.aux" 1716436643 242 a0f08d3dd3a4d62ca271246e50f1fe59 "pdflatex"
+  "main.out" 1716436643 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1716436641 6112 78a6cdf3b854ffd7c6e3e0378841fba7 ""
   (generated)
   "main.aux"
   "main.log"
