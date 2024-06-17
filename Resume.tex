@@ -19,7 +19,7 @@
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-5pt}\scshape\raggedright\small
+  \vspace{-5pt}\scshape\raggedright\large
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 
 % Ensure that generate pdf is machine readable/ATS parsable
@@ -46,63 +46,42 @@
 
 % SKILLS
 \section*{Skills}
-\noindent \textbf{Languages:} Java, Python, C, C++, Verilog, MATLAB, Simulink, JavaScript, HTML, CSS, SQL, Vue.js, React Native \\
+\noindent \textbf{Languages:} Java, Python, C, C++, Verilog, MATLAB, Simulink, JavaScript, HTML, CSS, SQL, Vue.js, React Native \\\\
 \noindent \textbf{Technologies:} Docker, Git, SVN, Linux, Windows, Vivado, Vitis, OpenCV, NumPy, Pandas, Keras, TensorFlow, sklearn, Matplotlib, SVN, Polariton, CAN, Vector
 
 % WORK EXPERIENCE
 \section*{Work Experience}
-\noindent \textbf{Controls Intern} | Hyster-Yale \hfill June 2023 – May 2024
+\noindent \textbf{Electrical Software Intern} | Hyster-Yale \hfill June 2023 – May 2024
 \begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Used MATLAB scripts and Simulink for SIL/MIL testing to improve efficiency and reduce potential issues.
-    \item Designed and created test harnesses for truck controllers, ensuring hardware met specifications. Gained experience with CAN and Vector Software.
-    \item Learned automated unit tests using Jenkins, enhancing software reliability and deployment efficiency.
+\item 1st to implement MATLAB scripts and Simulink models for SIL/MIL testing using efficient testing methods like equivalence partitioning and boundary value analysis, significantly improving time and efficiency during the DevOps stage.
+\item Tested different hardware components to ensure they met specifications. Designed and created test harnesses for truck controllers to interface with CAN and Vector software to generate device reports and monitor behavior under different conditions.
+\item Learned to automate unit tests using Jenkins, enhancing software reliability and deployment efficiency.
 \end{itemize}
+
 \noindent \textbf{Full Stack Developer Intern} | PlayMetrics \hfill May 2022 – Aug 2022
 \begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Developed a user interface with Vue.js, JavaScript, HTML, and SQL for monitoring company success and user information.
-    \item Created visually informative graphs and charts to streamline the client onboarding process.
-    \item Retrieved and integrated data from various APIs, organizing it for over 500 clubs to improve accuracy and usability.
+\item Developed a user interface with Vue.js, JavaScript, HTML, and SQL for monitoring company success and user information.
+\item Created visually informative graphs and charts to streamline the client onboarding process.
+\item Retrieved and integrated data from various APIs, organizing it for over 500 clubs to improve accuracy and usability.
 \end{itemize}
 
 \noindent \textbf{Research Assistant} | North Carolina A\&T State University \hfill June 2021 – July 2021
 \begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Contributed to a \$300,000 NCDOT-funded research project on autonomous vehicles, involving a car and a quadcopter with various sensors.
-    \item Developed a small-scale prototype car and programmed sensor functionality.
-    \item Designed and built a 3D exoskeleton and frame for the car using SolidWorks and 3D printers.
+\item Contributed to a \$300,000 NCDOT-funded research project on autonomous vehicles, involving a car and a quadcopter equipped with various sensors for mapping and environment detection.
+\item Developed a small-scale prototype car using an Arduino Uno and an NVIDIA Jetson Nano, incorporating and testing multiple sensors, including a LiDAR sensor for object detection and avoidance.
+\item Designed and constructed a 3D exoskeleton and frame for the car using SolidWorks and 3D printers, enhancing the space for hardware components and improving aesthetics.
 \end{itemize}
 
 % PROJECTS
 \section*{Projects}
-\noindent \textbf{Real-Time Object Detection and Tracking (Sponsored by Northrop Grumman):}
-\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Designed and created a smart camera to identify, track, and follow someone wearing a facemask using AMD Xilinx’s KV260 development board.
-    \item Developed object detection using a pre-compiled facemask detection model from Xilinx’s Model Zoo.
-    \item Utilized OpenCV’s legacy MOSSE algorithm for object tracking, processed through a proportional-only controller.
-    \item Created a module to convert coordinates into angles for precise movement.
-    \item Implemented a proportional (P) controller for correct camera positioning.
-    \item Designed and assembled a circuit to interface with sensors and control system.
-    \item Researched and sourced components, including a servo controller.
-    \item Documented the development process, created reports, and presented the project outcomes.
-\end{itemize}
-\noindent \textbf{Autonomous Car:}
-\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Created a model car that follows a black line using a PID controller to adjust direction and speed based on error.
-    \item Designed the car to be manually controlled using an IoT module (ESP32) and any device with Wi-Fi.
-    \item The car was built using C, a MSP430, a FET board, an ESP32, a IR LED sensor, and a display board designed from PCB schematics.
-\end{itemize}
-\noindent \textbf{Apple Stock Prediction:}
-\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Developed a neural network model to automate stock technical analysis, reducing the time and expertise required.
-    \item Utilized historical Apple stock data to predict future prices, focusing on the closing price.
-    \item Implemented a baseline recurrent neural network with a simple RNN layer, achieving a root mean square error of 4.085, later enhanced with long short-term memory for accuracy.
-    \item Achieved a root mean square error of 1.962, significantly improving the baseline.
-\end{itemize}
-\noindent \textbf{Simple CPU:}
-\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
-    \item Using Verilog, created a 16-bit CPU capable of performing arithmetic calculations like add, subtract, multiply, divide, modulo, and exponents.
-    \item Programmed an ALU with necessary opcodes.
-    \item Designed and programmed a control unit, data path, and register file.
-\end{itemize}
+\noindent \textbf{Real-Time Object Detection and Tracking (Sponsored by Northrop Grumman):} This project involved designing and developing a smart camera system capable of identifying, tracking, and following individuals wearing facemasks. The system used two microcontrollers: an ESP32 and AMD Xilinx’s KV260 development board. I implemented object detection through a pre-compiled facemask detection model from Xilinx’s Model Zoo and utilized OpenCV’s legacy MOSSE algorithm for tracking, processed through a proportional-only controller. I used C for coding on the ESP32 and Verilog for coding on the KV260 FPGA board. Additionally, I created a module to convert coordinates into angles for precise movement and designed a proportional (P) controller for accurate camera positioning. The project included designing and assembling a circuit to interface with sensors and the control system, researching and sourcing components such as a servo controller, and thoroughly documenting the development process for reports and presentations.\\
+
+\noindent \textbf{Autonomous Car:} In this project, I developed a model car capable of autonomously following a black line using a PID controller to adjust its direction and speed based on error correction. The car also features manual control through an IoT module (ESP32), accessible from any device with Wi-Fi. The hardware was built using C programming on an MSP430 microcontroller, a FET board, an ESP32 module, an IR LED sensor, and a custom-designed display board from PCB schematics.\\
+
+\noindent \textbf{Apple Stock Prediction:} This project aimed to automate stock technical analysis through a neural network model, focusing on predicting the future prices of Apple stocks and making stock investing easier without requiring extensive research. Using historical stock data, I developed a baseline recurrent neural network with a simple RNN layer, achieving a root mean square error (RMSE) of 4.085. To enhance accuracy, I later integrated long short-term memory (LSTM) layers, which significantly improved the model’s performance, reducing the RMSE to 1.962.\\
+
+\noindent \textbf{Simple CPU:} In this project, I designed a 16-bit CPU using Verilog, capable of performing various arithmetic operations such as addition, subtraction, multiplication, division, modulo, and exponentiation. I programmed an Arithmetic Logic Unit (ALU) with the necessary opcodes and developed a control unit, data path, and register file to facilitate these operations. The project showcased my ability to design and implement fundamental CPU components from scratch.
+
 
 \end{document}
 

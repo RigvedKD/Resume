@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718151368.67422 "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" "Resume.pdf" "Resume" 1718151369.26683 0
+["pdflatex"] 1718589199.93854 "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" "Resume.pdf" "Resume" 1718589200.5157 0
   "C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718151367 160629 a8a3f3d322d99e8f93990ff5a04483a5 ""
   "C:/Users/rigve/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718151290 24225046 59a9765057cc14a8489e7b1e945f4c4c ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587920543 3267 177411e539fcc6ace86309ff03b22da6 ""
@@ -90,10 +90,10 @@
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Resume.aux" 1718151369 242 a0f08d3dd3a4d62ca271246e50f1fe59 "pdflatex"
-  "Resume.out" 1718151369 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Resume.tex" 1718150845 6112 78a6cdf3b854ffd7c6e3e0378841fba7 ""
-  "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" 1718150845 6112 78a6cdf3b854ffd7c6e3e0378841fba7 ""
+  "Resume.aux" 1718589200 242 a0f08d3dd3a4d62ca271246e50f1fe59 "pdflatex"
+  "Resume.out" 1718589200 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Resume.tex" 1718589199 6705 38040e12999507882c13d51e90fa6888 ""
+  "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" 1718589199 6705 38040e12999507882c13d51e90fa6888 ""
   (generated)
   "Resume.aux"
   "Resume.log"

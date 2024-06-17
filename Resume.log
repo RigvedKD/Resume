@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.11)  11 JUN 2024 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.11)  16 JUN 2024 21:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,7 +512,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 41.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
-(Font)              scaled to size 9.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 41.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 42.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
@@ -525,6 +525,25 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 43.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 43.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -543,14 +562,14 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  11967 strings out of 474486
- 193114 string characters out of 5743755
- 1954542 words of memory out of 5000000
+ 193116 string characters out of 5743755
+ 1955542 words of memory out of 5000000
  34090 multiletter control sequences out of 15000+600000
  627278 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,326b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1135b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Resume.pdf (1 page, 140199 bytes).
+Output written on Resume.pdf (1 page, 141607 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
