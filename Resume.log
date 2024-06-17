@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.11)  16 JUN 2024 21:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.11)  16 JUN 2024 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -501,22 +501,14 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 35.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 14.4pt on input line 35.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 37.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 37.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 41.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
 (Font)              scaled to size 10.0pt on input line 41.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 41.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
-(Font)              scaled to size 12.0pt on input line 41.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 42.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 41.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 42.
+(Font)              scaled to size 10.0pt on input line 41.
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 43.
 (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
@@ -552,7 +544,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (Resume.aux)
+{C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (Resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -561,17 +553,17 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11967 strings out of 474486
- 193116 string characters out of 5743755
+ 11960 strings out of 474486
+ 192913 string characters out of 5743755
  1955542 words of memory out of 5000000
- 34090 multiletter control sequences out of 15000+600000
- 627278 words of font info for 51 fonts, out of 8000000 for 9000
+ 34086 multiletter control sequences out of 15000+600000
+ 607495 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1135b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1076b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Resume.pdf (1 page, 141607 bytes).
+Output written on Resume.pdf (1 page, 139461 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

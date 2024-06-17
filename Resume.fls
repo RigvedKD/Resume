@@ -169,8 +169,6 @@ OUTPUT Resume.out
 OUTPUT Resume.pdf
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1.tfm
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1.tfm
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
@@ -183,13 +181,8 @@ INPUT C:\Users\rigve\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\sourcesanspro\a_emkxm5.enc
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1.vf
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1--base.tfm
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\sourcesanspro\a_4jropk.enc
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.vf
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1--base.tfm
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1.vf
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1--base.tfm
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\sourcesanspro\a_5ponh6.enc

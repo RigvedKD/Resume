@@ -1,13 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1718589199.93854 "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" "Resume.pdf" "Resume" 1718589200.5157 0
-  "C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718151367 160629 a8a3f3d322d99e8f93990ff5a04483a5 ""
+["pdflatex"] 1718591287.70596 "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" "Resume.pdf" "Resume" 1718591288.2692 0
+  "C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718591084 162227 267af60b2d519199b8363af7327cfcf7 ""
   "C:/Users/rigve/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1718151290 24225046 59a9765057cc14a8489e7b1e945f4c4c ""
-  "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587920543 3267 177411e539fcc6ace86309ff03b22da6 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc" 1587920543 3344 37c976a8b2fa4b8f132a488735054f7d ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587920543 3021 665788e9679767ade2a71155215d25e0 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1--base.tfm" 1587920543 1648 77a748afe0a406be1ac3f29e1cd365cb ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.tfm" 1587920543 37016 442637758ed935c1c5c22443691f4bf5 ""
-  "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-sc-t1--base.tfm" 1587920543 1668 823f6b065df7162be1c7a90d3989ee0f ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-sc-t1.tfm" 1587920543 38620 f169de344947771df64b8724cde8c161 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1--base.tfm" 1587920543 1652 31b9d596c0c8dcc7bcfc0431833ece08 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm" 1587920543 37576 ac3ddef6397b06e0361b81f77f4ab180 ""
@@ -17,7 +15,6 @@
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb" 1587920543 356260 8287b5712066d62e5a3cf6eced86d738 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb" 1587920543 336785 718fd7aef38d5d9d3ecef454f0d8fa51 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.vf" 1587920543 1728 b87be699681a04d54541fcaa47fe285c ""
-  "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-tlf-sc-t1.vf" 1587920543 1720 edb492fd2440e27332799bec9e83eaf3 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.vf" 1587920543 1732 92bc4ab7a012370b497bd8030a4c8332 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-tlf-ts1.vf" 1587920543 632 c406e254c5ef15dbce683d16d93fdafe ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -90,10 +87,10 @@
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Resume.aux" 1718589200 242 a0f08d3dd3a4d62ca271246e50f1fe59 "pdflatex"
-  "Resume.out" 1718589200 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Resume.tex" 1718589199 6705 38040e12999507882c13d51e90fa6888 ""
-  "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" 1718589199 6705 38040e12999507882c13d51e90fa6888 ""
+  "Resume.aux" 1718591288 242 a0f08d3dd3a4d62ca271246e50f1fe59 "pdflatex"
+  "Resume.out" 1718591288 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Resume.tex" 1718591287 6644 043c9882fffcada36eb8bd13e147309c ""
+  "c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex" 1718591287 6644 043c9882fffcada36eb8bd13e147309c ""
   (generated)
   "Resume.aux"
   "Resume.log"
