@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  19 JUN 2024 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.21)  21 OCT 2024 21:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex
-(c:/Users/rigve/OneDrive/Documents/GitHub/Resume/Resume.tex
-LaTeX2e <2024-06-01> patch level 1
-L3 programming layer <2024-05-27>
+**c:/Users/rigve/OneDrive/Documents/GitHub/Resume10_21_2024/Resume/Resume.tex
+(c:/Users/rigve/OneDrive/Documents/GitHub/Resume10_21_2024/Resume/Resume.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
 (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -64,7 +64,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count268
 \enitdp@description=\count269
 ) (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
  (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
@@ -108,7 +108,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count272
 \Hy@pagecounter=\count273
  (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -116,7 +116,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count274
  (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -159,7 +159,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
  (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -175,7 +175,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip55
 ) (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip56
 \f@nch@O@elh=\skip57
 \f@nch@O@erh=\skip58
@@ -186,7 +186,7 @@ Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
 \f@nch@O@olf=\skip63
 \f@nch@O@orf=\skip64
 ) (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2024/06/02 v24.6 The Babel package
+Package: babel 2024/10/05 v24.11 The Babel package
 \babel@savecnt=\count282
 \U@D=\dimen152
 \l@unhyphenated=\language79
@@ -213,7 +213,7 @@ Package babel Info: Importing font and identification data for english
 ) (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
  (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2024/05/23 v2.6c Tabular extension package (FMi)
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen153
 \ar@mcellbox=\box54
 \extrarowheight=\dimen154
@@ -372,20 +372,20 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 {C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] (Resume.aux)
  ***********
-LaTeX2e <2024-06-01> patch level 1
-L3 programming layer <2024-05-27>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11210 strings out of 473920
- 178619 string characters out of 5726974
- 1949908 words of memory out of 5000000
- 33935 multiletter control sequences out of 15000+600000
+ 11214 strings out of 473899
+ 178828 string characters out of 5726499
+ 610550 words of memory out of 5000000
+ 33960 multiletter control sequences out of 15000+600000
  572965 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1074b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1091b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
 Output written on Resume.pdf (1 page, 103111 bytes).
 PDF statistics:

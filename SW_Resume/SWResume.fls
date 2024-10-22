@@ -1,6 +1,6 @@
-PWD c:\Users\rigve\OneDrive\Documents\GitHub\Resume\SW_Resume
+PWD c:\Users\rigve\OneDrive\Documents\GitHub\Resume10_21_2024\Resume\SW_Resume
 INPUT C:\Users\rigve\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rigve\OneDrive\Documents\GitHub\Resume\SW_Resume\SWResume.tex
+INPUT c:\Users\rigve\OneDrive\Documents\GitHub\Resume10_21_2024\Resume\SW_Resume\SWResume.tex
 OUTPUT SWResume.log
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -35,8 +35,6 @@ INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.s
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
@@ -49,12 +47,10 @@ INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.s
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
@@ -65,6 +61,8 @@ INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
