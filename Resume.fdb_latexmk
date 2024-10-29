@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729562149.48622 "c:/Users/rigve/OneDrive/Documents/GitHub/Resume10_21_2024/Resume/Resume.tex" "Resume.pdf" "Resume" 1729562150.14519 0
-  "C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729562084 80937 91001db6d4ae332437b4b739862cda02 ""
+["pdflatex"] 1730171274.371 "c:/Users/rigve/OneDrive/Documents/GitHub/Resume10_21_2024/Resume/Resume.tex" "Resume.pdf" "Resume" 1730171274.9137 0
+  "C:/Users/rigve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729562231 160629 a8a3f3d322d99e8f93990ff5a04483a5 ""
   "C:/Users/rigve/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1729562023 11948238 b80cd779e06d0ca0ffe65b8d104b3843 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256929440 2327 9d6df24f9c4f7368395224341a95523a ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc" 1256929440 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -72,10 +72,10 @@
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1718356376 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1718356376 7532 d2e1111e17bfebb1607d8ffa779705ec ""
   "C:/Users/rigve/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Resume.aux" 1729562150 280 6b828094e00234c0864beebb1893eb25 "pdflatex"
-  "Resume.out" 1729562149 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Resume.tex" 1729562148 6807 89994e3b278729eddf2b901e4242815c ""
-  "c:/Users/rigve/OneDrive/Documents/GitHub/Resume10_21_2024/Resume/Resume.tex" 1729562148 6807 89994e3b278729eddf2b901e4242815c ""
+  "Resume.aux" 1730171274 280 6b828094e00234c0864beebb1893eb25 "pdflatex"
+  "Resume.out" 1730171274 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Resume.tex" 1730171273 7715 611b4fb0a7bf52b161a81619a1f1b5fe ""
+  "c:/Users/rigve/OneDrive/Documents/GitHub/Resume10_21_2024/Resume/Resume.tex" 1730171273 7715 611b4fb0a7bf52b161a81619a1f1b5fe ""
   (generated)
   "Resume.aux"
   "Resume.log"

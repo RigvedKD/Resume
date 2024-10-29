@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.21)  21 OCT 2024 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.21)  28 OCT 2024 23:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -363,10 +363,15 @@ Package hyperref Info: Link coloring OFF on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 49.
 (C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+
 
 [1
 
@@ -379,15 +384,15 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11214 strings out of 473899
- 178828 string characters out of 5726499
- 610550 words of memory out of 5000000
- 33960 multiletter control sequences out of 15000+600000
+ 11217 strings out of 473899
+ 178899 string characters out of 5726499
+ 611550 words of memory out of 5000000
+ 33963 multiletter control sequences out of 15000+600000
  572965 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1091b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,837b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/rigve/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on Resume.pdf (1 page, 103111 bytes).
+Output written on Resume.pdf (1 page, 103026 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
