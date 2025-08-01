@@ -1,6 +1,6 @@
-PWD c:\Users\rigve\OneDrive\Documents\GitHub\Resume10_21_2024\Resume
+PWD c:\Users\rigve\OneDrive\Documents\Resume
 INPUT C:\Users\rigve\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rigve\OneDrive\Documents\GitHub\Resume10_21_2024\Resume\Resume.tex
+INPUT c:\Users\rigve\OneDrive\Documents\Resume\Resume.tex
 OUTPUT Resume.log
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -51,6 +51,8 @@ INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infware
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
@@ -61,8 +63,6 @@ INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
-INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\rigve\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
