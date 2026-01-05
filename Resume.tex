@@ -25,12 +25,16 @@
 \titleformat{\section}{
 \vspace{-5pt}\scshape\raggedright\normalfont\bfseries
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+\titlespacing*{\section}{0pt}{8pt}{8pt}  % {left}{before}{after}
 
 % Ensure that generated PDF is machine readable/ATS parsable
 \pdfgentounicode=1
 
 % Reduce space between items
-\setlist{itemsep=0.5pt,topsep=0.5pt}
+% \setlist{itemsep=0.5pt,topsep=0.5pt}
+% current: \setlist{itemsep=0.5pt,topsep=0.5pt}
+\setlist[itemize]{itemsep=1pt, topsep=2pt, partopsep=0pt, parsep=0pt,
+                  leftmargin=4em, labelsep=2em}
 
 \begin{document}
 
@@ -43,23 +47,35 @@
 
 % EDUCATION
 \section*{EDUCATION}
-\noindent \textbf{Bachelor of Computer Engineering \longpipe{} North Carolina State University} \hfill \textbf{August 2021 – May 2024}
-\begin{itemize}[leftmargin=4em, labelsep=2em]
-    \begin{samepage}
-        \item Coursework: Embedded Systems Architectures, Microarchitecture, Neural Networks, Microelectronics, Compiler \\Optimization and Scheduling, Application Programming in Java
-    \end{samepage}
-\end{itemize}
-\noindent \textbf{Master of Computer Engineering \longpipe{} North Carolina State University} \hfill \textbf{January 2025 – May 2026} 
-
+\noindent \textbf{Master of Computer Engineering \longpipe{} North Carolina State University} \hfill \textbf{January 2025 – May 2026}\\
+\noindent \textbf{GPA: 3.50/4.0} \\
+%\begin{itemize}[leftmargin=4em, labelsep=2em]
+%    \begin{samepage}
+%        \item Coursework: Embedded Systems Architectures, Microarchitecture, Neural Networks, Microelectronics, Compiler \\Optimization and Scheduling, Application Programming in Java
+%    \end{samepage}
+%\end{itemize}
+\noindent \textbf{Bachelor of Computer Engineering \longpipe{} North Carolina State University} \hfill \textbf{August 2021 – May 2024}\\
+\noindent \textbf{GPA: 3.43/4.0}
+%\begin{itemize}[leftmargin=4em, labelsep=2em]%
+%    \begin{samepage}
+%        \item Coursework: Embedded Systems Architectures, Microarchitecture, Neural Networks, Microelectronics, Compiler \\Optimization and Scheduling, Application Programming in Java
+%    \end{samepage}
+%\end{itemize}
 % SKILLS
 \section*{SKILLS}
 \noindent \textbf{Programming Languages:} Java, Python, C, C++, Verilog, MATLAB, JavaScript, SQL \\
-\noindent \textbf{Libraries:} OpenCV, NumPy, Pandas, Keras, TensorFlow, sklearn, Matplotlib \\
+%\noindent \textbf{Libraries:} OpenCV, NumPy, Pandas, Keras, TensorFlow, sklearn, Matplotlib \\
 \noindent \textbf{Frameworks/Technologies:} Docker, Git, Linux, Vivado, Simulink, React Native, Vue.js, Polariton, CAN, Vector
 
 % WORK EXPERIENCE
 \section*{WORK EXPERIENCE}
-\noindent \textbf{Automation Systems Engineer \longpipe{} Brock Solutions} \hfill \textbf{June 2024 – Current}
+\noindent \textbf{Embedded Systems Engineer \longpipe{} John Deere} \hfill \textbf{June 2024 – Current}
+\begin{itemize}[leftmargin=4em, labelsep=2em]
+    \item Enhanced the battery test environment by implementing code changes in C within a Hardware-in-the-Loop (HIL) setup, improving functionality, execution speed, and debugging efficiency.
+    \item Improved time efficiency by 200\% by implementing an autonomous CI/CD pipeline to deploy code across multiple testing environments, streamlining the development and testing process.
+    \item Improved development boards to support testing of new hardware and updated validation requirements.
+\end{itemize}
+\noindent \textbf{Automation Systems Engineer \longpipe{} Brock Solutions} \hfill \textbf{June 2024 – January 2025}
 \begin{itemize}[leftmargin=4em, labelsep=2em]
     \item Designed and implemented HMI interfaces using Java and Python, improving operator control and monitoring capabilities, ultimately increasing production efficiency.
     \item Acted as the main contact for client service calls, troubleshooting HMI interfaces, scripts, and PLC ladder logic in real time. Leveraged strong communication skills to resolve issues promptly, ensuring client satisfaction.
@@ -89,11 +105,12 @@
 
 % PROJECTS
 \section*{PROJECTS}
-\noindent \textbf{Real-Time Object Detection and Tracking (Sponsored by Northrop Grumman):} Designed and developed a smart camera system capable of identifying, tracking, and following individuals wearing face masks. Implemented object detection through a pre-compiled face mask detection model and used OpenCV’s legacy MOSSE algorithm for facial recognition tracking. Created a C++/verilog module to convert coordinates into angles for precise movement and designed a proportional (P) controller for accurate camera positioning. Designed and assembled a circuit to interface with sensors and the control system. Researched and sourced components and thoroughly documented the development process for reports and presentations.\\
+% \noindent \textbf{Real-Time Object Detection and Tracking (Sponsored by Northrop Grumman):} Designed and developed a smart camera system capable of identifying, tracking, and following individuals wearing face masks. Implemented object detection through a pre-compiled face mask detection model and used OpenCV’s legacy MOSSE algorithm for facial recognition tracking. Created a C++/verilog module to convert coordinates into angles for precise movement and designed a proportional (P) controller for accurate camera positioning. Designed and assembled a circuit to interface with sensors and the control system. Researched and sourced components and thoroughly documented the development process for reports and presentations.\\
+\noindent \textbf{Streamlined CNN Hardware Accelerator:} Designed and implemented a streamlined CNN accelerator in SystemVerilog that reads a 1024x1024 image from DRAM, buffers it in SRAM, performs 4x4 convolution with LeakyReLU and 2x2 average pooling, and writes the results back to DRAM using burst transfers.\\
+\noindent \textbf{Real-Time Object Detection \& Tracking (Sponsored by Northrop Grumman):} Built a smart camera that detects, tracks, and follows people wearing face masks. Used a precompiled mask detector and OpenCV MOSSE tracking. Developed a C++ module to convert image coordinates to pan/tilt angles and implemented a P controller for camera alignment. Designed sensor/control interface circuitry and produced project documentation.
+
+%\noindent \textbf{Apple Stock Prediction:} Automated stock technical analysis through a neural network model in Python, focusing on predicting the future prices of Apple stocks and making stock investing easier without requiring extensive research. Using historical stock data, developed a baseline recurrent neural network with a simple RNN layer, achieving a root mean square error (RMSE) of 4.085. Enhanced accuracy by integrating long short-term memory (LSTM) layers, significantly improving the model’s performance and reducing the RMSE to 1.962. \\
 %\noindent \textbf{Autonomous Car:} Developed a model car capable of autonomously following a black line using a PID controller to adjust its direction and speed based on error correction. The car also features manual control through an IoT module (ESP32), accessible from any device with Wi-Fi. The hardware was built using C programming on an MSP430 microcontroller, a FET board, an ESP32 module, an IR LED sensor, and a custom-designed display board from PCB schematics.
-
-\noindent \textbf{Apple Stock Prediction:} Automated stock technical analysis through a neural network model in Python, focusing on predicting the future prices of Apple stocks and making stock investing easier without requiring extensive research. Using historical stock data, developed a baseline recurrent neural network with a simple RNN layer, achieving a root mean square error (RMSE) of 4.085. Enhanced accuracy by integrating long short-term memory (LSTM) layers, significantly improving the model’s performance and reducing the RMSE to 1.962. 
-
-%\noindent \textbf{Simple CPU:} Designed a 16-bit CPU using Verilog, capable of performing various arithmetic operations such as addition, subtraction, multiplication, division, modulo, and exponentiation. Programmed an Arithmetic Logic Unit (ALU) with the necessary opcodes and developed a control unit, data path, and register file to facilitate these operations. This project showcased my ability to design and implement fundamental CPU components from scratch.
+\noindent \textbf{Simple CPU:} Designed a 16-bit CPU using SystemVerilog, capable of performing various arithmetic operations such as addition, subtraction, multiplication, division, modulo, and exponentiation. Programmed an Arithmetic Logic Unit (ALU) with the necessary opcodes and developed a control unit, data path, and register file to facilitate these operations.
 
 \end{document}
