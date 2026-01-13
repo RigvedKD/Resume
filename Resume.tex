@@ -10,12 +10,13 @@
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \input{glyphtounicode}
-\usepackage[margin=0.4in]{geometry}
+\usepackage[left=0.4in, right=0.4in, top=0.3in, bottom=0.4in]{geometry}
 \usepackage[none]{hyphenat} % Prevent word hyphenation
 \usepackage{lmodern} % Use Latin Modern fonts
 
 % Custom command for a longer pipe character
 \newcommand{\longpipe}{\rule[-0.5ex]{0.5pt}{2.5ex}}
+
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -38,20 +39,18 @@
                   leftmargin=4em, labelsep=2em}
 
 \begin{document}
-
 % HEADING
 \begin{center}
 {\Large \textbf{Rigved Koushik Doddi}}\\
 \vspace{1pt}
 \noindent 336-995-4908 \longpipe{} \href{mailto:rigveddoddi2002@gmail.com}{rigveddoddi2002@gmail.com} \longpipe{} \href{https://www.linkedin.com/in/rkdoddi/}{linkedin.com/in/rkdoddi} \longpipe{} \href{https://github.com/RigvedKD}{github.com/RigvedKD}
 \end{center}
-\vspace{-14pt}
+\vspace{-9pt}
 
 % EDUCATION
-\vspace{1pt}
 \section*{EDUCATION}
 \noindent \textbf{Master \& Bachelor of Computer Engineering \longpipe{} NC State University} \hfill \textbf{Aug 2021 – May 2026}\\
-\noindent {GPA: 3.50/4.0}
+\noindent {\textbf{GPA}: 3.5/4 \longpipe{} \textbf{Coursework}: ASIC Verification, Advanced Microarchitecture, GPU Architecture \longpipe{} \textbf{Honors:} Multiple Dean's List}
 %\begin{itemize}[leftmargin=4em, labelsep=2em]
 %    \begin{samepage}
 %        \item Coursework: Embedded Systems Architectures, Microarchitecture, Neural Networks, Microelectronics, Compiler \\Optimization and Scheduling, Application Programming in Java
@@ -65,7 +64,7 @@
 %    \end{samepage}
 %\end{itemize}
 % SKILLS
-\vspace{3pt}
+\vspace{-9pt}
 \section*{SKILLS}
 \noindent \textbf{Programming Languages:} C, C++, Verilog, Python, MATLAB, JavaScript, SQL \\
 %\noindent \textbf{Libraries:} OpenCV, NumPy, Pandas, Keras, TensorFlow, sklearn, Matplotlib \\
@@ -77,18 +76,18 @@
 \noindent \textbf{Embedded Systems Engineer \longpipe{} John Deere} \hfill \textbf{Feb 2024 – Present}
 \begin{itemize}[leftmargin=2em, labelsep=1em]
     \item Enhanced the battery test environment by implementing code changes in C within a Hardware-in-the-Loop (HIL) setup, improving functionality, execution speed, and debugging efficiency.
-    \item Improved time efficiency by 200\% by implementing an autonomous CI/CD pipeline to deploy code across multiple testing environments, streamlining the development and testing process.
-    \item Modified and upgraded PCB layouts for legacy development boards to enable seamless testing of next-generation hardware and ensure compliance with updated validation requirements.
+    \item Reduced deployment time from 30 minutes to under 10 minutes by implementing an autonomous CI/CD pipeline across multiple testing environments, streamlining the development process.
+    \item Upgraded PCB layouts for legacy development boards to enable seamless testing of next-generation hardware and ensure compliance with updated validation requirements.
 \end{itemize}
 \vspace{3pt}
 \noindent \textbf{Automation Systems Engineer \longpipe{} Brock Solutions} \hfill \textbf{Jun 2024 – Jan 2025}
 \begin{itemize}[leftmargin=2em, labelsep=1em]
-    \item Programmed and deployed UI interfaces using Java and Python, improving operator control and monitoring capabilities, ultimately increasing production efficiency.
-    \item Acted as the main contact for client service calls, troubleshooting UI interfaces, scripts, and PLC ladder logic in real time. Leveraged strong communication skills to resolve issues promptly, ensuring client satisfaction.
+    \item Acted as the point of contact for client service calls, troubleshooting UI interfaces, scripts, and PLC ladder logic in real time. Leveraged strong communication skills to resolve issues promptly, ensuring client satisfaction.
     \item Authored Python scripts to automate discrepancy detection across 10,000+ project templates and streamline gateway web updates, enhancing project consistency, traceability, and efficiency during handovers.
+    \item Programmed and deployed UI interfaces using Java and Python, improving operator control and monitoring capabilities, ultimately increasing production efficiency.
 \end{itemize}
 \vspace{3pt}
-\noindent \textbf{Electrical Software Intern \longpipe{} Hyster-Yale} \hfill \textbf{Jun 2023 – May 2024}
+\noindent \textbf{Electrical Software Engineer \longpipe{} Hyster-Yale} \hfill \textbf{Jun 2023 – May 2024}
 \begin{itemize}[leftmargin=2em, labelsep=1em]
     \item Pioneered MATLAB scripts and Simulink models for SIL/MIL testing using testing methods like equivalence partitioning and boundary value analysis, significantly improving development time and efficiency.
     \item Validated CAN-bus controllers and motor drivers against specifications. Engineered test harnesses for truck controllers to interface with CAN and Vector software to generate device reports and monitor behavior under different conditions.
@@ -108,7 +107,7 @@
     \item Prototyped a small-scale car using an Arduino Uno and an NVIDIA Jetson Nano, incorporating and testing multiple sensors, including a LiDAR sensor for object detection and avoidance.
     \item Constructed and 3D-printed an external protective shell and structural frame in SolidWorks, increasing space for hardware components and improving aesthetics.
 \end{itemize}
-\vspace{4pt}
+\vspace{3pt}
 % PROJECTS
 \section*{PROJECTS}
  %\noindent \textbf{Real-Time Object Detection and Tracking (Sponsored by Northrop Grumman):} Designed and developed a smart camera system capable of identifying, tracking, and following individuals wearing face masks. Implemented object detection through a pre-compiled face mask detection model and used OpenCV’s legacy MOSSE algorithm for facial recognition tracking. Created a C++/verilog module to convert coordinates into angles for precise movement and designed a proportional (P) controller for accurate camera positioning. Designed and assembled a circuit to interface with sensors and the control system. Researched and sourced components and thoroughly documented the development process for reports and presentations.\\
@@ -119,7 +118,7 @@
 \vspace{3pt}
 \noindent \textbf{Streamlined CNN Hardware Accelerator} \hfill \textbf{Nov 2025 – Dec 2025}
 \begin{itemize}[leftmargin=2em, labelsep=1em]
-    \item Architected and synthesized a streamlined CNN accelerator in SystemVerilog that reads a 1024x1024 image from DRAM and buffers it in SRAM. Performed 4x4 convolution with LeakyReLU and 2x2 average pooling, writing the results back to DRAM using burst transfers.
+    \item Architected and synthesized a SystemVerilog CNN accelerator that streams a 1024×1024 image from DRAM, uses SRAM as a workspace, and performs convolution-based feature extraction with activation and pooling, enabling high-throughput burst memory transfers; reduced cycle count by 20\%.
 \end{itemize}
 \vspace{3pt}
 \noindent \textbf{Real-Time Object Detection \& Tracking (Northrop Grumman)} \hfill \textbf{Aug 2023 – May 2024}
@@ -127,7 +126,7 @@
     \item Built a smart camera that detects, tracks, and follows people wearing face masks using a precompiled mask detector and OpenCV MOSSE tracking. Implemented a C++ module with a P controller to convert image coordinates to pan/tilt angles and designed circuitry for camera alignment.
 \end{itemize}
 \vspace{3pt}
-\noindent \textbf{Simple CPU} \hfill \textbf{Apr 2023 – May 2023}
+\noindent \textbf{Arithmetic CPU} \hfill \textbf{Apr 2023 – May 2023}
 \begin{itemize}[leftmargin=2em, labelsep=1em]
     \item Engineered a 16-bit CPU in SystemVerilog capable of performing arithmetic operations like multiplication, division, modulo, and exponentiation. Programmed an ALU with custom opcodes and modeled the control unit, data path, and register file to facilitate operations.
 \end{itemize}
